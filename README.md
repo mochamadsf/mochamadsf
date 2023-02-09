@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mochamadsf
 - 👀 I’m interested in being a Front End Developer or UI/UX..
-- 🌱 I’m currently learning React JS..
+- 🌱 I’m currently learning .....
